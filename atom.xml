@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NickBlog</title>
+  
+  
+  <link href="/nickwald.top/atom.xml" rel="self"/>
+  
+  <link href="https://nickwald.top/"/>
+  <updated>2020-05-03T15:24:04.255Z</updated>
+  <id>https://nickwald.top/</id>
+  
+  <author>
+    <name>NickWald&lt;i class=&quot;fa fa-paw&quot;&gt;&lt;/i&gt;</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello!  欢迎！</title>
+    <link href="https://nickwald.top/2020/05/02/hello-world/"/>
+    <id>https://nickwald.top/2020/05/02/hello-world/</id>
+    <published>2020-05-02T10:02:15.168Z</published>
+    <updated>2020-05-03T15:24:04.255Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎来到我的博客！"><a href="#欢迎来到我的博客！" class="headerlink" title="欢迎来到我的博客！"></a>欢迎来到我的<a href="https://nickwald.top">博客</a>！</h1><h1 id="Welcome-to-my-BLOG"><a href="#Welcome-to-my-BLOG" class="headerlink" title="Welcome to my BLOG!"></a>Welcome to my <a href="https://nickwald.top">BLOG</a>!</h1><h2 id="Q-这是做什么的？"><a href="#Q-这是做什么的？" class="headerlink" title="Q:这是做什么的？"></a>Q:这是做什么的？</h2><a id="more"></a><p>A:这里归档着一些平时生活中的所见所闻，好词好句，时事评论，技术文档整理等等奇奇怪怪，各色各样的东西:)</p><h2 id="Q-我能参与进讨论吗？"><a href="#Q-我能参与进讨论吗？" class="headerlink" title="Q:我能参与进讨论吗？"></a>Q:我能参与进讨论吗？</h2><p>A:当然可以！非常欢迎您的评论与对鄙人平时疏漏之处的斧正，感激不尽！</p><h2 id="Q-博主的身份？"><a href="#Q-博主的身份？" class="headerlink" title="Q:博主的身份？"></a>Q:博主的身份？</h2><p>A:高中生（域名自己买的），兴趣一堆（画画，编程，steam，MC……），是个Furry（兽迷），有时候摸鱼（包括这个博客hhh），有兴趣交友的就发邮箱吧！（<a href="mailto:870585593@qq.com">870585593@qq.com</a>)</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;欢迎来到我的博客！&quot;&gt;&lt;a href=&quot;#欢迎来到我的博客！&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到我的博客！&quot;&gt;&lt;/a&gt;欢迎来到我的&lt;a href=&quot;https://nickwald.top&quot;&gt;博客&lt;/a&gt;！&lt;/h1&gt;&lt;h1 id=&quot;Welcome-to-my-BLOG&quot;&gt;&lt;a href=&quot;#Welcome-to-my-BLOG&quot; class=&quot;headerlink&quot; title=&quot;Welcome to my BLOG!&quot;&gt;&lt;/a&gt;Welcome to my &lt;a href=&quot;https://nickwald.top&quot;&gt;BLOG&lt;/a&gt;!&lt;/h1&gt;&lt;h2 id=&quot;Q-这是做什么的？&quot;&gt;&lt;a href=&quot;#Q-这是做什么的？&quot; class=&quot;headerlink&quot; title=&quot;Q:这是做什么的？&quot;&gt;&lt;/a&gt;Q:这是做什么的？&lt;/h2&gt;
+    
+    </summary>
+    
+    
+      <category term="Others" scheme="https://nickwald.top/categories/Others/"/>
+    
+    
+      <category term="欢迎, Welcome" scheme="https://nickwald.top/tags/%E6%AC%A2%E8%BF%8E-Welcome/"/>
+    
+  </entry>
+  
+</feed>

@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/Nick-wald.github.io/2020/05/02/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+    <title>Hello!  欢迎！</title>
+    <url>/nickwald.top/2020/05/02/hello-world/</url>
+    <content><![CDATA[<h1 id="欢迎来到我的博客！"><a href="#欢迎来到我的博客！" class="headerlink" title="欢迎来到我的博客！"></a>欢迎来到我的<a href="https://nickwald.top">博客</a>！</h1><h1 id="Welcome-to-my-BLOG"><a href="#Welcome-to-my-BLOG" class="headerlink" title="Welcome to my BLOG!"></a>Welcome to my <a href="https://nickwald.top">BLOG</a>!</h1><h2 id="Q-这是做什么的？"><a href="#Q-这是做什么的？" class="headerlink" title="Q:这是做什么的？"></a>Q:这是做什么的？</h2><a id="more"></a>
+<p>A:这里归档着一些平时生活中的所见所闻，好词好句，时事评论，技术文档整理等等奇奇怪怪，各色各样的东西:)</p>
+<h2 id="Q-我能参与进讨论吗？"><a href="#Q-我能参与进讨论吗？" class="headerlink" title="Q:我能参与进讨论吗？"></a>Q:我能参与进讨论吗？</h2><p>A:当然可以！非常欢迎您的评论与对鄙人平时疏漏之处的斧正，感激不尽！</p>
+<h2 id="Q-博主的身份？"><a href="#Q-博主的身份？" class="headerlink" title="Q:博主的身份？"></a>Q:博主的身份？</h2><p>A:高中生（域名自己买的），兴趣一堆（画画，编程，steam，MC……），是个Furry（兽迷），有时候摸鱼（包括这个博客hhh），有兴趣交友的就发邮箱吧！（<a href="mailto:870585593@qq.com">870585593@qq.com</a>)</p>
 ]]></content>
+      <categories>
+        <category>Others</category>
+      </categories>
+      <tags>
+        <tag>欢迎, Welcome</tag>
+      </tags>
   </entry>
 </search>
