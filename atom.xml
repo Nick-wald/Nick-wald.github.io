@@ -5,9 +5,9 @@
   
   <link href="/Nick-wald.github.io/atom.xml" rel="self"/>
   
-  <link href="https://nickwald.top/"/>
+  <link href="https://nick-wald.github.io/"/>
   <updated>2020-05-03T15:24:04.255Z</updated>
-  <id>https://nickwald.top/</id>
+  <id>https://nick-wald.github.io/</id>
   
   <author>
     <name>NickWald&lt;i class=&quot;fa fa-paw&quot;&gt;&lt;/i&gt;</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello!  欢迎！</title>
-    <link href="https://nickwald.top/2020/05/02/hello-world/"/>
-    <id>https://nickwald.top/2020/05/02/hello-world/</id>
+    <link href="https://nick-wald.github.io/2020/05/02/hello-world/"/>
+    <id>https://nick-wald.github.io/2020/05/02/hello-world/</id>
     <published>2020-05-02T10:02:15.168Z</published>
     <updated>2020-05-03T15:24:04.255Z</updated>
     
@@ -32,10 +32,10 @@
     </summary>
     
     
-      <category term="Others" scheme="https://nickwald.top/categories/Others/"/>
+      <category term="Others" scheme="https://Nick-wald.github.io/categories/Others/"/>
     
     
-      <category term="欢迎, Welcome" scheme="https://nickwald.top/tags/%E6%AC%A2%E8%BF%8E-Welcome/"/>
+      <category term="欢迎, Welcome" scheme="https://Nick-wald.github.io/tags/%E6%AC%A2%E8%BF%8E-Welcome/"/>
     
   </entry>
   
