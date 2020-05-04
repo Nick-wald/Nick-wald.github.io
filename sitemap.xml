@@ -2,44 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nick-wald.github.io/2020/05/02/hello-world/</loc>
+    <loc>https://nick-wald.github.io/2020/05/04/personal-2020-5-4/</loc>
     
-    <lastmod>2020-05-03T15:24:04.255Z</lastmod>
+    <lastmod>2020-05-04T05:00:02.998Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nick-wald.github.io/tags/index.html</loc>
+    <loc>https://nick-wald.github.io/2020/05/02/top/</loc>
     
-    <lastmod>2020-05-03T15:21:08.508Z</lastmod>
+    <lastmod>2020-05-04T04:51:56.069Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://nick-wald.github.io/schedule/index.html</loc>
     
-    <lastmod>2020-05-03T15:20:20.537Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nick-wald.github.io/categories/index.html</loc>
-    
-    <lastmod>2020-05-03T15:20:12.292Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nick-wald.github.io/archives/index.html</loc>
-    
-    <lastmod>2020-05-03T15:20:03.568Z</lastmod>
+    <lastmod>2020-05-04T04:46:01.417Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://nick-wald.github.io/about/index.html</loc>
     
-    <lastmod>2020-05-03T15:19:52.659Z</lastmod>
+    <lastmod>2020-05-04T04:43:53.090Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nick-wald.github.io/archives/index.html</loc>
+    
+    <lastmod>2020-05-04T04:31:28.486Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nick-wald.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-05-04T04:30:40.230Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nick-wald.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-05-04T04:30:18.808Z</lastmod>
     
   </url>
   
