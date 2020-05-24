@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>置顶-博客欢迎页</title>
+    <url>/Nick-wald.github.io/2020/05/02/top/</url>
+    <content><![CDATA[<h1 id="欢迎来到我的博客！"><a href="#欢迎来到我的博客！" class="headerlink" title="欢迎来到我的博客！"></a>欢迎来到我的<a href="https://nickwald.top">博客</a>！</h1><h1 id="Welcome-to-my-BLOG"><a href="#Welcome-to-my-BLOG" class="headerlink" title="Welcome to my BLOG!"></a>Welcome to my <a href="https://nickwald.top">BLOG</a>!</h1><a id="more"></a>
+<h2 id="Q-这是做什么的？"><a href="#Q-这是做什么的？" class="headerlink" title="Q:这是做什么的？"></a>Q:这是做什么的？</h2><p>A: 这里可以算是一个杂物箱，里面有平时生活见闻的分享和思考，也有见到的好词佳句，美文，富有哲理的评论的摘录，或者是笔者平时对于时事热点的思考讨论，亦或技术性文章和报告……当然，希望这个杂物箱中能有任何东西帮助到您！</p>
+<h2 id="Q-我能参与进讨论吗？"><a href="#Q-我能参与进讨论吗？" class="headerlink" title="Q: 我能参与进讨论吗？"></a>Q: 我能参与进讨论吗？</h2><p>A: 当然可以！非常欢迎您的评论！也希望您能斧正鄙人的疏漏之处或指教疑难不解之处，感激不尽！</p>
+<h2 id="Q-博主的身份？"><a href="#Q-博主的身份？" class="headerlink" title="Q: 博主的身份？"></a>Q: 博主的身份？</h2><p>A: 关于博主的身份可以查看侧边栏的<strong>“关于”</strong>，在这里恕不再累述！</p>
+<h2 id="Q-为什么有些文章提示需要密码？"><a href="#Q-为什么有些文章提示需要密码？" class="headerlink" title="Q: 为什么有些文章提示需要密码？"></a>Q: 为什么有些文章提示需要密码？</h2><p>A: 部分文章由于隐私或其它原因不便或不适合于公开于是对其进行了加密，访问者需要特定密码才可以访问哦！对您造成困扰和不便非常抱歉！</p>
+]]></content>
+      <categories>
+        <category>欢迎</category>
+        <category>其他</category>
+      </categories>
+      <tags>
+        <tag>欢迎</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>MathJax使用手册</title>
-    <url>/2020/05/24/math/</url>
+    <url>/Nick-wald.github.io/2020/05/24/math/</url>
     <content><![CDATA[<h1 id="MathJax简介"><a href="#MathJax简介" class="headerlink" title="MathJax简介"></a>MathJax简介</h1><p>MathJax是一款运行在浏览器中的开源数学符号渲染引擎，使用MathJax可以方便的在浏览器中显示数学公式，不需要使用图片。目前，MathJax可以解析Latex、MathML和ASCIIMathML的标记语言。MathJax项目于2009年开始，发起人有American Mathematical Society, Design Science等，还有众多的支持者，个人感觉MathJax会成为今后数学符号渲染引擎中的主流，也许现在已经是了。本文接下来会讲述MathJax的基础用法，但不涉及MathJax的安装及配置。此外，推荐使用StackEdit学习MathJax的语法，它支持Markdown和MathJax。<br><a id="more"></a></p>
 <h1 id="MathJax语法"><a href="#MathJax语法" class="headerlink" title="MathJax语法"></a>MathJax语法</h1><h2 id="公式标记-amp-查看公式"><a href="#公式标记-amp-查看公式" class="headerlink" title="公式标记&amp;查看公式"></a>公式标记&amp;查看公式</h2><p>使用MathJax时，需要用一些适当的标记告诉MathJax某段文本是公式代码。此外，MathJax中的公式排版有两种方式，inline和displayed。inline表示公式嵌入到文本段中，displayed表示公式独自成为一个段落。例如，$f(x) = 3 \times x$这是一个inline公式，而下面</p>
 <script type="math/tex; mode=display">f(x) = 3 \times x</script><p>则是一个displayed公式。<br>在MathJax中，默认的displayed公式分隔符有 <script type="math/tex">$...$$$ 和`\[...\]`，而默认的inline公式分隔符为`(...)`，当然这些都是可以自定义的，具体配置请参考文档。下文中，使用$$$...$$$作为displayed分隔符，</script>…$$作为inline分隔符。此外，可以在渲染完成的公式上方右键点击，唤出右键菜单。在菜单中提供了查看公式代码、设置显示效果和渲染模式的选项。</p>
@@ -193,7 +210,17 @@
 <h2 id="上标-amp-下标"><a href="#上标-amp-下标" class="headerlink" title="上标&amp;下标"></a>上标&amp;下标</h2><p>上标和下标分别使用^与_（详细右键点击公式，选择”Show Math As-Tex Commands”，下同）</p>
 <script type="math/tex; mode=display">
 x^2</script><script type="math/tex; mode=display">
-x_i</script>]]></content>
+x_i</script><h2 id="括号"><a href="#括号" class="headerlink" title="括号"></a>括号</h2><ol>
+<li>小括号与方括号：使用原始的()，[]即可：$(2+3)[4+4]$</li>
+<li>大括号：由于大括号<code>{}</code>被用来分组，因此需要使用<code>\{</code>和<code>\}</code>表示大括号，也可以使用<code>\lbrace</code>和<code>\rbrace</code>来表示。</li>
+<li>尖括号：使用<code>\langle</code>和<code>\rangle</code>表示左尖括号和右尖括号。</li>
+<li>上取整：使用<code>\lceil</code>和<code>\rceil</code>表示。</li>
+<li>下取整：使用<code>\lfloor</code>和<code>\rfloor</code>表示。</li>
+<li>不可见括号：使用.表示。<br>需要注意的是，原始符号并不会随着公式大小缩放，可以使用<code>\left(...\right)</code>来自适应地调整括号大小。如下，<script type="math/tex; mode=display">
+\lbrace\sum_{i=0}^0 i^2 = \frac{(n^2+n)(2n+2)}{6}\rbrace\tag{1.1}</script><script type="math/tex; mode=display">
+\left\lbrace\sum_{i=0}^0 i^2 = \frac{(n^2+n)(2n+2)}{6}\right\rbrace\tag{1.2}</script></li>
+</ol>
+]]></content>
       <categories>
         <category>其他</category>
       </categories>
@@ -203,7 +230,7 @@ x_i</script>]]></content>
   </entry>
   <entry>
     <title>加密-私人空间</title>
-    <url>/2020/05/04/personal-2020-5-4/</url>
+    <url>/Nick-wald.github.io/2020/05/04/personal-2020-5-4/</url>
     <content><![CDATA[<a id="more"></a>
 <h1 id="当前任务"><a href="#当前任务" class="headerlink" title="当前任务"></a>当前任务</h1>]]></content>
       <categories>
@@ -211,23 +238,6 @@ x_i</script>]]></content>
       </categories>
       <tags>
         <tag>私人</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>置顶-博客欢迎页</title>
-    <url>/2020/05/02/top/</url>
-    <content><![CDATA[<h1 id="欢迎来到我的博客！"><a href="#欢迎来到我的博客！" class="headerlink" title="欢迎来到我的博客！"></a>欢迎来到我的<a href="https://nickwald.top">博客</a>！</h1><h1 id="Welcome-to-my-BLOG"><a href="#Welcome-to-my-BLOG" class="headerlink" title="Welcome to my BLOG!"></a>Welcome to my <a href="https://nickwald.top">BLOG</a>!</h1><a id="more"></a>
-<h2 id="Q-这是做什么的？"><a href="#Q-这是做什么的？" class="headerlink" title="Q:这是做什么的？"></a>Q:这是做什么的？</h2><p>A: 这里可以算是一个杂物箱，里面有平时生活见闻的分享和思考，也有见到的好词佳句，美文，富有哲理的评论的摘录，或者是笔者平时对于时事热点的思考讨论，亦或技术性文章和报告……当然，希望这个杂物箱中能有任何东西帮助到您！</p>
-<h2 id="Q-我能参与进讨论吗？"><a href="#Q-我能参与进讨论吗？" class="headerlink" title="Q: 我能参与进讨论吗？"></a>Q: 我能参与进讨论吗？</h2><p>A: 当然可以！非常欢迎您的评论！也希望您能斧正鄙人的疏漏之处或指教疑难不解之处，感激不尽！</p>
-<h2 id="Q-博主的身份？"><a href="#Q-博主的身份？" class="headerlink" title="Q: 博主的身份？"></a>Q: 博主的身份？</h2><p>A: 关于博主的身份可以查看侧边栏的<strong>“关于”</strong>，在这里恕不再累述！</p>
-<h2 id="Q-为什么有些文章提示需要密码？"><a href="#Q-为什么有些文章提示需要密码？" class="headerlink" title="Q: 为什么有些文章提示需要密码？"></a>Q: 为什么有些文章提示需要密码？</h2><p>A: 部分文章由于隐私或其它原因不便或不适合于公开于是对其进行了加密，访问者需要特定密码才可以访问哦！对您造成困扰和不便非常抱歉！</p>
-]]></content>
-      <categories>
-        <category>欢迎</category>
-        <category>其他</category>
-      </categories>
-      <tags>
-        <tag>欢迎</tag>
       </tags>
   </entry>
 </search>
