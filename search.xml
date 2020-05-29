@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>置顶-博客欢迎页</title>
-    <url>/2020/05/02/top/</url>
+    <url>/Nick-wald.github.io/2020/05/02/top/</url>
     <content><![CDATA[<h1>欢迎来到我的<a href="https://nickwald.top">博客</a>！</h1>
 <h1>Welcome to my <a href="https://nickwald.top">BLOG</a>!</h1>
 <a id="more"></a>
@@ -25,7 +25,7 @@
   </entry>
   <entry>
     <title>MathJax使用手册</title>
-    <url>/2020/05/24/math/</url>
+    <url>/Nick-wald.github.io/2020/05/24/math/</url>
     <content><![CDATA[<h1>MathJax简介</h1>
 <p>MathJax是一款运行在浏览器中的开源数学符号渲染引擎，使用MathJax可以方便的在浏览器中显示数学公式，不需要使用图片。目前，MathJax可以解析Latex、MathML和ASCIIMathML的标记语言。MathJax项目于2009年开始，发起人有American Mathematical Society, Design Science等，还有众多的支持者，个人感觉MathJax会成为今后数学符号渲染引擎中的主流，也许现在已经是了。本文接下来会讲述MathJax的基础用法，但不涉及MathJax的安装及配置。此外，推荐使用StackEdit学习MathJax的语法，它支持Markdown和MathJax。</p>
 <a id="more"></a>
@@ -356,7 +356,7 @@ $$\left{ \begin{aligned} a_1x+b_1y+c_1z &amp; = d_1+e_1 \ a_2x+b_2y &amp; = d_2 
   </entry>
   <entry>
     <title>加密-私人空间</title>
-    <url>/2020/05/04/personal-2020-5-4/</url>
+    <url>/Nick-wald.github.io/2020/05/04/personal-2020-5-4/</url>
     <content><![CDATA[<a id="more"></a>
 <h1>当前任务</h1>
 ]]></content>
