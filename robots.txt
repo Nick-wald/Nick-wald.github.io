@@ -11,5 +11,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://nickwald.top/sitemap.xml
-Sitemap: https://nickwald.top/baidusitemap.xml
+Sitemap: https://www.nickwald.top/sitemap.xml
+Sitemap: https://www.nickwald.top/baidusitemap.xml
